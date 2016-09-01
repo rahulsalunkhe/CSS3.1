@@ -1,0 +1,12 @@
+
+#thirdTable{
+		margin-left: 175px;
+		margin-top: 20px;
+	}
+#thirdTable tr:first-child td{
+	font-weight: bold;
+} 
+
+table, th, td{
+	border: 1px solid black;
+}
